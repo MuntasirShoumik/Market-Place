@@ -1,0 +1,34 @@
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\Market Place.exe
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\Market Place.deps.json
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\Market Place.runtimeconfig.json
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\Market Place.runtimeconfig.dev.json
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\Market Place.dll
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\ref\Market Place.dll
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\Market Place.pdb
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Source\Repos\Market-Place\Market Place\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market Place.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market_Place.Form1.resources
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market_Place.Form_admin_home.resources
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market_Place.Form_admin_login.resources
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market_Place.Form_buyer_home_page.resources
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market_Place.Form_buyer_login.resources
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market_Place.Form_buyer_registration.resources
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market_Place.Form_login_seller.resources
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market_Place.Form_seller_home_page.resources
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market_Place.Form_seller_registration.resources
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market_Place.Properties.Resources.resources
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market Place.csproj.GenerateResource.cache
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market Place.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market Place.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market Place.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market Place.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market Place.csproj.CopyComplete
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market Place.dll
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\ref\Market Place.dll
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market Place.pdb
+C:\Users\USER\Source\Repos\Market-Place\Market Place\obj\Debug\net5.0-windows\Market Place.genruntimeconfig.cache
